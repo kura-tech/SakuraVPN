@@ -16,13 +16,13 @@ Features:
 
 
 # Package 
-[iOS](https://apps.apple.com/app/id1526649399#?platform=iphone)     
-https://apps.apple.com/app/id1526649399#?platform=iphone
+*[iOS]*
+[https://apps.apple.com/app/id1526649399#?platform=iphone](https://apps.apple.com/app/id1526649399#?platform=iphone)     
 
 
-[MacOS / OSX](https://apps.apple.com/app/id1526649399)  
-https://apps.apple.com/app/id1526649399
+*[MacOS / OSX]*
+[https://apps.apple.com/app/id1526649399](https://apps.apple.com/app/id1526649399)  
 
 
-[Android](https://github.com/kura-tech/SakuraVPN/releases/download/v-first/KuraVPN.apk)
-https://github.com/kura-tech/SakuraVPN/releases/download/v-first/KuraVPN.apk
+*[Android]*
+[https://github.com/kura-tech/SakuraVPN/releases/download/v-first/KuraVPN.apk](https://github.com/kura-tech/SakuraVPN/releases/download/v-first/KuraVPN.apk)
