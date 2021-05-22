@@ -25,4 +25,4 @@ Features:
 
 
 *[Android]*       
-[https://github.com/kura-tech/SakuraVPN/releases/download/v-first/KuraVPN.apk](https://github.com/kura-tech/SakuraVPN/releases/download/v-first/KuraVPN.apk)
+[https://github.com/kura-tech/SakuraVPN/releases/download/v1.0.1/KuraVPN-Android.apk](https://github.com/kura-tech/SakuraVPN/releases/download/v1.0.1/KuraVPN-Android.apk)
